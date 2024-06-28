@@ -1,16 +1,17 @@
 ---
 layout: archive
-title: "Publications"
+title: ""
 permalink: /publications/
 author_profile: true
 ---
+# Working Papers
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+[Retention or regressivity? The empirical effects of 401(k) vesting schedules](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4876231) (with Aaron Goodman), June 2024
 
-{% include base_path %}
+&nbsp;
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+# Policy Reports
+
+[Are Employers Optimizing Their 401(K) Match?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4847770) (with Fiona Greig, Anna Madamba, Cormac O'Dea, Taha Choukhmane and Lawrence Schmidt), May 2024
+
+
