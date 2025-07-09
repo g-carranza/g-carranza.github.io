@@ -14,15 +14,15 @@ author_profile: true
 
 ## Work in Progress
 
-- **The Design of Employer Sponsored Retirement Plan Match Schedules**, with Fiona Greig, Anna Madamba, Cormac O'Dea, Taha Choukhmane and Lawrence Schmidt
+- **The Design of Employer Sponsored Retirement Plan Match Schedules**, with Taha Choukhmane, Kelly Hahn, Fiona Greig, Anna Madamba, Cormac O'Dea, and Lawrence Schmidt
 
-- **Elite Colleges in the Age of Mass Migration**, with Florian Caro, Valerie Michelman and Seth Zimmerman
+- **Elite Colleges in the Age of Mass Migration**, with Florian Caro, Valerie Michelman, and Seth Zimmerman
 
 ## Policy Reports
 
 - <a href="https://corporate.vanguard.com/content/dam/corp/research/pdf/does_401k_vesting_help_retain_workers.pdf" style="color: inherit; text-decoration: underline; font-weight: bold;">Does 401(k) vesting help retain workers?</a>, with Aaron Goodman, Febraury 2025
 
-- <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4847770" style="color: inherit; text-decoration: underline; font-weight: bold;">Are Employers Optimizing Their 401(K) Match?</a>, with Fiona Greig, Anna Madamba, Cormac O'Dea, Taha Choukhmane and Lawrence Schmidt, May 2024
+- <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4847770" style="color: inherit; text-decoration: underline; font-weight: bold;">Are Employers Optimizing Their 401(K) Match?</a>, with Fiona Greig, Anna Madamba, Cormac O'Dea, Taha Choukhmane, and Lawrence Schmidt, May 2024
 
 
 
