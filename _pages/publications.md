@@ -14,7 +14,7 @@ author_profile: true
 
 ## Work in Progress
 
-- **The Design of Employer Sponsored Retirement Plan Match Schedules**, with Taha Choukhmane, Kelly Hahn, Fiona Greig, Anna Madamba, Cormac O'Dea, and Lawrence Schmidt
+- **The Design of Employer Sponsored Retirement Plan Match Schedules**, with Taha Choukhmane, Fiona Greig, Cormac O'Dea, and Lawrence Schmidt
 
 - **Elite Colleges in the Age of Mass Migration**, with Florian Caro, Valerie Michelman, and Seth Zimmerman
 
