@@ -24,6 +24,8 @@ author_profile: true
 
 - **Elite Social Status and Protection Against Economic Risk**, with Florian Caro, Valerie Michelman, and Seth Zimmerman
 
+- **The Consumption Response to Household Expense Shocks**, with Leo Feler
+
 ## Policy Reports
 
 - <a href="https://corporate.vanguard.com/content/dam/corp/research/pdf/does_401k_vesting_help_retain_workers.pdf" style="color: inherit; text-decoration: underline; font-weight: bold;">Does 401(k) vesting help retain workers?</a>, with Aaron Goodman, Febraury 2025
