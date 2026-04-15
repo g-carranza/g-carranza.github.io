@@ -12,15 +12,15 @@ author_profile: true
   
   **Presented at**: NBER Aging Spring 2025, WFA 2025, NBER SI Household Finance 2025, NBER Labor Spring 2026
 
-- **The Design of Retirement Plan Match Schedules**, with Taha Choukhmane, Fiona Greig, Cormac O'Dea, and Lawrence Schmidt, March 2026
+- **Surveying Counterfactuals: Improving 401(k) Matches Using Hypothetical Choices**, with Taha Choukhmane, Fiona Greig, Cormac O'Dea, and Lawrence Schmidt, March 2026
 
-  <span style="font-size: 16px;"> We use survey responses to hypothetical scenarios linked with administrative 401(k) data to investigate the efficiency and equity implications of employer 401(k) match formulas. We find that (i) survey responses can be used to accurately predict saving responses to both observed and hypothetical plans, (ii) saving is inelastic to the match rate, (iii) non-elective contributions do not crowd out saving. These patterns imply that (iv) plans combining lower match rates with non-elective contributions generate higher savings and more equitable match distributions, and (v) many existing plans—including safe-harbor formulas—are strictly dominated along both dimensions.</span>
+  <span style="font-size: 16px;"> Evaluating reforms requires predicting how individuals would behave under counterfactual policies and mapping those behavioral responses into welfare-relevant criteria. We use survey responses to hypothetical scenarios linked with administrative 401(k) data to address both in the context of designing employer matching formulas. We find that (i) these survey responses can accurately predict saving responses in administrative data, (ii) saving is inelastic to the match rate, and (iii) non-elective contributions do not crowd out employee saving. These patterns imply that (iv) plans combining lower match rates with non-elective contributions generate higher savings and more equitable match distributions, and (v) many existing plans—including safe-harbor formulas—are  dominated along both dimensions. These conclusions hold for any objective function that values either higher saving or lower inequality, or both.</span>
   
   **Presented at**: NBER Public Spring 2026
 
 ## Work in Progress
 
-- **Who Bears the Risk? Earnings Shocks and Consumption Inside the Household**, with Jin Cao
+- **Earnings Shocks, Spousal Consumption and the Limits of Household Insurance**, with Jin Cao
 
 - **Elite Social Status and Protection Against Economic Risk**, with Florian Caro, Valerie Michelman, and Seth Zimmerman
 
