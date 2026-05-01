@@ -24,7 +24,7 @@ author_profile: true
 
 - **Elite Social Status and Protection Against Economic Risk**, with Florian Caro, Valerie Michelman, and Seth Zimmerman
 
-- **The Consumption Response to Household Expense Shocks**, with Leo Feler
+- **The Consumption Response to Household Expense Shocks**, with Leo Feler and Kamila Janmohamed
 
 ## Policy Reports
 
