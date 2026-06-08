@@ -16,7 +16,7 @@ author_profile: true
 
   <span style="font-size: 16px;"> How should employer 401(k) matching formulas, which allocate $250 billion annually, be designed to raise employee saving and reduce inequality in employer contributions? We use survey responses to hypothetical scenarios to predict how individuals would save under counterfactual policies. We then characterize the frontier of achievable saving-equity combinations. We find that survey responses accurately predict contribution choices in administrative 401(k) data, employee contributions are inelastic to the match rate, and non-elective contributions do not crowd out employee saving. Therefore, a lower match rate applied up to a higher cap paired with a non-elective contribution achieves higher savings and more equitable employer contributions. Many existing formulas, including those designated as safe harbors by regulation, are dominated along both dimensions.</span>
   
-  **Presented at**: NBER Public Spring 2026, NBER SI Aging 2026
+  **Presented at**: NBER Public Spring 2026, WFA 2026, NBER SI Aging 2026
 
 ## Work in Progress
 
