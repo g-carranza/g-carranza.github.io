@@ -6,17 +6,17 @@ author_profile: true
 ---
 ## Working Papers
 
-- <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4876231" style="color: inherit; text-decoration: underline; font-weight: bold;">Retention or Regressivity? The Empirical Effects of 401(k) Vesting Schedules</a>, with Aaron Goodman, October 2025, *Revise and Resubmit, Journal of Finance*
+- <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4876231" target="_blank" style="color: inherit; text-decoration: underline; font-weight: bold;">Retention or Regressivity? The Empirical Effects of 401(k) Vesting Schedules</a>, with Aaron Goodman, October 2025, *Revised and Resubmitted, Journal of Finance*
 
   <span style="font-size: 16px;">Vesting requirements are a common yet understudied feature of defined-contribution retirement plans. Using administrative recordkeeping data, we find that 30% of separations occur during participants' vesting periods. The resulting forfeitures of employer contributions are concentrated among lower-income participants and make the distribution of 401(k) compensation significantly more regressive. Firms do not enjoy offsetting efficiency benefits: employing both cross-plan and within-plan identification strategies, we find no evidence that vesting exerts a causal retention effect. A linked survey shows informational frictions to be a key mechanism, as a majority of respondents do not know their current plan's vesting rules.</span>
   
   **Presented at**: NBER Aging Spring 2025, WFA 2025, NBER SI Household Finance 2025, NBER Labor Spring 2026
 
-- **Surveying Counterfactuals: Improving 401(k) Matches Using Hypothetical Choices**, with Taha Choukhmane, Fiona Greig, Cormac O'Dea, and Lawrence Schmidt, March 2026
+- <a href="/files/pdf/ccgos_may_2026.pdf" target="_blank" style="color: inherit; text-decoration: underline; font-weight: bold;">Improving 401(k) Matches Using Hypothetical Choices</a>, with Taha Choukhmane, Fiona Greig, Cormac O'Dea, and Lawrence Schmidt, May 2026
 
-  <span style="font-size: 16px;"> Evaluating reforms requires predicting how individuals would behave under counterfactual policies and mapping those behavioral responses into welfare-relevant criteria. We use survey responses to hypothetical scenarios linked with administrative 401(k) data to address both in the context of designing employer matching formulas. We find that (i) these survey responses can accurately predict saving responses in administrative data, (ii) saving is inelastic to the match rate, and (iii) non-elective contributions do not crowd out employee saving. These patterns imply that (iv) plans combining lower match rates with non-elective contributions generate higher savings and more equitable match distributions, and (v) many existing plans—including safe-harbor formulas—are  dominated along both dimensions. These conclusions hold for any objective function that values either higher saving or lower inequality, or both.</span>
+  <span style="font-size: 16px;"> How should employer 401(k) matching formulas, which allocate $250 billion annually, be designed to raise employee saving and reduce inequality in employer contributions? We use survey responses to hypothetical scenarios to predict how individuals would save under counterfactual policies. We then characterize the frontier of achievable saving-equity combinations. We find that survey responses accurately predict contribution choices in administrative 401(k) data, employee contributions are inelastic to the match rate, and non-elective contributions do not crowd out employee saving. Therefore, a lower match rate applied up to a higher cap paired with a non-elective contribution achieves higher savings and more equitable employer contributions. Many existing formulas, including those designated as safe harbors by regulation, are dominated along both dimensions.</span>
   
-  **Presented at**: NBER Public Spring 2026
+  **Presented at**: NBER Public Spring 2026, NBER SI Aging 2026
 
 ## Work in Progress
 
