@@ -28,7 +28,9 @@ author_profile: true
 
 ## Policy Reports
 
-- <a href="https://corporate.vanguard.com/content/dam/corp/research/pdf/does_401k_vesting_help_retain_workers.pdf" style="color: inherit; text-decoration: underline; font-weight: bold;">Does 401(k) vesting help retain workers?</a>, with Aaron Goodman, Febraury 2025
+- <a href="https://corporate.vanguard.com/content/dam/corp/research/pdf/better_match_formulas_401k_plans.pdf" style="color: inherit; text-decoration: underline; font-weight: bold;">Better match formulas for 401(k) plans</a>, with Fiona Greig, Cormac O'Dea, Taha Choukhmane, and Lawrence Schmidt, July 2026
+
+- <a href="https://corporate.vanguard.com/content/dam/corp/research/pdf/does_401k_vesting_help_retain_workers.pdf" style="color: inherit; text-decoration: underline; font-weight: bold;">Does 401(k) vesting help retain workers?</a>, with Aaron Goodman, February 2025
 
 - <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4847770" style="color: inherit; text-decoration: underline; font-weight: bold;">Are Employers Optimizing Their 401(K) Match?</a>, with Fiona Greig, Anna Madamba, Cormac O'Dea, Taha Choukhmane, and Lawrence Schmidt, May 2024
 
