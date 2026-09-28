@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-6NLKY5FFQX"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-6NLKY5FFQX');
+  </script>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="Cache-Control" content="no-cache">
+  <script>
+    try {
+      var saved = localStorage.getItem("theme");
+      document.documentElement.dataset.theme = saved === "dark" ? "dark" : "light";
+    } catch (e) {}
+  </script>
+  <title>CV — Guillermo Carranza</title>
+  <link rel="icon" href="odea.png" type="image/png">
+  <link rel="stylesheet" href="styles.css?v=4">
+</head>
+<body>
+  <div class="wrap">
+    <header class="site-header">
+      <h1><a href="index.html">Guillermo Carranza</a></h1>
+      <div class="header-tools">
+        <nav aria-label="Primary">
+          <a href="index.html">Home</a>
+          <a href="research.html">Research</a>
+          <a href="teaching.html">Teaching</a>
+          <a href="cv.html" aria-current="page">CV</a>
+          <button type="button" class="theme" aria-label="Switch to dark mode">
+            <svg class="icon-moon" width="18" height="18" viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M21 14.5A8.5 8.5 0 0 1 9.5 3a7 7 0 1 0 11.5 11.5z"/></svg>
+            <svg class="icon-sun" width="18" height="18" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="4" fill="none" stroke="currentColor" stroke-width="2"/><path fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" d="M12 2v2.2M12 19.8V22M4.2 4.2l1.6 1.6M18.2 18.2l1.6 1.6M2 12h2.2M19.8 12H22M4.2 19.8l1.6-1.6M18.2 5.8l1.6-1.6"/></svg>
+          </button>
+        </nav>
+      </div>
+    </header>
+
+    <main>
+      <h2 class="page-title">CV</h2>
+      <p class="note">You can find my CV <a href="cv.pdf?v=2">here</a>.</p>
+    </main>
+  </div>
+  <script src="theme.js"></script>
+</body>
+</html>

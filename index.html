@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-6NLKY5FFQX"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-6NLKY5FFQX');
+  </script>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="Cache-Control" content="no-cache">
+  <script>
+    try {
+      var saved = localStorage.getItem("theme");
+      document.documentElement.dataset.theme = saved === "dark" ? "dark" : "light";
+    } catch (e) {}
+  </script>
+  <title>Guillermo Carranza</title>
+  <link rel="icon" href="odea.png" type="image/png">
+  <link rel="stylesheet" href="styles.css?v=4">
+</head>
+<body>
+  <div class="wrap">
+    <header class="site-header">
+      <h1><a href="index.html" aria-current="page">Guillermo Carranza</a></h1>
+      <div class="header-tools">
+        <nav aria-label="Primary">
+          <a href="index.html" aria-current="page">Home</a>
+          <a href="research.html">Research</a>
+          <a href="teaching.html">Teaching</a>
+          <a href="cv.html">CV</a>
+          <button type="button" class="theme" aria-label="Switch to dark mode">
+            <svg class="icon-moon" width="18" height="18" viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M21 14.5A8.5 8.5 0 0 1 9.5 3a7 7 0 1 0 11.5 11.5z"/></svg>
+            <svg class="icon-sun" width="18" height="18" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="4" fill="none" stroke="currentColor" stroke-width="2"/><path fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" d="M12 2v2.2M12 19.8V22M4.2 4.2l1.6 1.6M18.2 18.2l1.6 1.6M2 12h2.2M19.8 12H22M4.2 19.8l1.6-1.6M18.2 5.8l1.6-1.6"/></svg>
+          </button>
+        </nav>
+      </div>
+    </header>
+
+    <main class="intro">
+      <div class="portrait">
+        <img src="headshot.jpg?v=3" alt="Guillermo Carranza" width="1200" height="1200">
+        <nav class="actions" aria-label="Contact">
+          <span>Contact me:</span>
+          <a href="mailto:guillermo.carranzajordan@yale.edu">Email</a>
+          <a href="https://x.com/gc_jordan_">X</a>
+        </nav>
+      </div>
+      <div class="copy">
+        <p class="welcome">Welcome!</p>
+        <p class="bio">I am a PhD Candidate in Economics at Yale University. I focus on topics in Household Finance, Public Economics and Applied Microeconomics. My recent work studies how households insure against economic risk and save for retirement.</p>
+        <p class="bio market">I will be on the 2026-2027 Job Market.</p>
+        <p class="bio">Before starting my PhD, I graduated summa cum laude with a BA in Economics-Mathematics from Columbia University and worked as a Research Professional at Chicago Booth. I was born and raised in Peru.</p>
+        <p class="note">My email is: <a href="mailto:guillermo.carranzajordan@yale.edu">guillermo.carranzajordan@yale.edu</a></p>
+      </div>
+    </main>
+  </div>
+  <script src="theme.js"></script>
+  <script>
+    const copy = document.querySelector(".copy");
+    const photo = document.querySelector(".portrait img");
+    const narrow = window.matchMedia("(max-width: 760px)");
+
+    function fitPhoto() {
+      if (narrow.matches) {
+        photo.style.height = "";
+        photo.style.aspectRatio = "";
+        return;
+      }
+      photo.style.aspectRatio = "auto";
+      photo.style.height = "auto";
+      photo.style.height = copy.getBoundingClientRect().height + "px";
+    }
+
+    fitPhoto();
+    window.addEventListener("resize", fitPhoto);
+    if (document.fonts) document.fonts.ready.then(fitPhoto);
+  </script>
+</body>
+</html>
